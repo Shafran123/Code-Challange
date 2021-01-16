@@ -1,0 +1,12 @@
+{
+  "name": "code-challange",
+  "displayName": "code-challange",
+  "expo": {
+    "name": "code-challange",
+    "slug": "code-challange",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
